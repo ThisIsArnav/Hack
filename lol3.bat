@@ -1,0 +1,1 @@
+start chrome https://blog.malwarebytes.com/wp-content/uploads/2018/11/install3.png

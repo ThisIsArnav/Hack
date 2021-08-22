@@ -1,0 +1,23 @@
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+cd C:\Users\Tanush\source\repos\Hack\Hack\bin\Debug\net5.0-windows\
+Hack.exe
